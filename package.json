@@ -14,7 +14,7 @@
     "@monaco-editor/react": "^4.6.0",
     "dexie": "^4.0.4",
     "dexie-react-hooks": "^1.1.7",
-    "libxml.wasm": "^1.0.1-1.0.1-01249467cfc7ac08ef568db0f224afe816cc38b3",
+    "libxml.wasm": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

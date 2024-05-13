@@ -18,8 +18,8 @@ importers:
         specifier: ^1.1.7
         version: 1.1.7(@types/react@18.3.2)(dexie@4.0.4)(react@18.3.1)
       libxml.wasm:
-        specifier: ^1.0.1-1.0.1-01249467cfc7ac08ef568db0f224afe816cc38b3
-        version: 1.0.1-master-01249467cfc7ac08ef568db0f224afe816cc38b3
+        specifier: ^1.0.1
+        version: 1.0.1
       react:
         specifier: ^18.2.0
         version: 18.3.1
@@ -1009,8 +1009,8 @@ packages:
     resolution: {integrity: sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ==}
     engines: {node: '>= 0.8.0'}
 
-  libxml.wasm@1.0.1-master-01249467cfc7ac08ef568db0f224afe816cc38b3:
-    resolution: {integrity: sha512-4e+Yte7IWpz4YbGyJUe/wDUFlBqUdOWTkGlJ/alsMUPb9oPMEkA81MMmxTCRWH8Io6tWG2Z1K1Cje/iaqVFT0A==}
+  libxml.wasm@1.0.1:
+    resolution: {integrity: sha512-Z9uA3Yp/n58mgpt0xlOovht/jgrHPEVThGZPfbs6FWF7Q2jukvO3m+JYA1hXgGopulWMGepNZGpfUOzyN/SYXA==}
 
   lilconfig@2.1.0:
     resolution: {integrity: sha512-utWOt/GHzuUxnLKxB6dk81RoOeoNeHgbrXiuGk4yyF5qlRz+iIVWu56E2fqGHFrXz0QNUhLB/8nKqvRH66JKGQ==}
@@ -2376,7 +2376,7 @@ snapshots:
       prelude-ls: 1.2.1
       type-check: 0.4.0
 
-  libxml.wasm@1.0.1-master-01249467cfc7ac08ef568db0f224afe816cc38b3: {}
+  libxml.wasm@1.0.1: {}
 
   lilconfig@2.1.0: {}
 
